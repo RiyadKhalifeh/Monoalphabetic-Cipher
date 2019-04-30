@@ -1,0 +1,16 @@
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\bin\Debug\خوارزمية الأبجدية الأحادية.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\bin\Debug\خوارزمية الأبجدية الأحادية.pdb
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.csprojResolveAssemblyReference.cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية_الأبجدية_الأحادية.Form1.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية_الأبجدية_الأحادية.Properties.Resources.resources
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.csproj.GenerateResource.Cache
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.exe
+c:\users\digitalnet\documents\visual studio 2012\Projects\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.pdb
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.exe
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.pdb
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\bin\Debug\خوارزمية الأبجدية الأحادية.exe
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\bin\Debug\خوارزمية الأبجدية الأحادية.pdb
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.csprojResolveAssemblyReference.cache
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية_الأبجدية_الأحادية.Form1.resources
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية_الأبجدية_الأحادية.Properties.Resources.resources
+C:\Users\DigitalNet\Desktop\تشفير\خوارزمية الأبجدية الأحادية\خوارزمية الأبجدية الأحادية\obj\Debug\خوارزمية الأبجدية الأحادية.csproj.GenerateResource.Cache
